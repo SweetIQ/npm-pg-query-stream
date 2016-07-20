@@ -1,0 +1,6 @@
+{
+  "name": "pg-query-stream",
+  "main": "pg-query-stream.d.ts",
+  "dependencies": {
+  }
+}
