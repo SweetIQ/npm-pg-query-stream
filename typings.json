@@ -1,6 +1,7 @@
 {
   "name": "pg-query-stream",
-  "main": "pg-query-stream.d.ts",
+  "main": "index.d.ts",
+  "global": true,
   "dependencies": {
   }
 }
